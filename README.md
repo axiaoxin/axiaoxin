@@ -13,6 +13,4 @@ Hi, I'm axiaoxin, a passionate developer from China.
 ------------------------------------------
 
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&repo=v-bot)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin&show_icons=true&theme=radical&layout=compact&repo=mbti)
+![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=v-bot)
