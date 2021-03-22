@@ -11,7 +11,7 @@ I ❤ Open Source.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>  
 
-<img src="https://github-profile-trophy.vercel.app/?username=axiaoxin&theme=gruvbox"/>
+<img src="https://github-profile-trophy.vercel.app/?username=axiaoxin&theme=monokai"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=axiaoxin&show_icons=true&count_private=true&theme=radical&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axiaoxin&show_icons=true&theme=radical&layout=compact&count_private=true)
