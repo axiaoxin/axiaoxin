@@ -1,6 +1,7 @@
 # Hi, I'm axiaoxin 👋🏾 👨🏻‍💻
 
 [![Github](https://img.shields.io/github/followers/axiaoxin?label=Follow&style=social)](https://github.com/axiaoxin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=axiaoxin.homepage)
 
 Hi, I'm axiaoxin, a passionate developer from China. 
 
