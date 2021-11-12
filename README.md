@@ -23,7 +23,7 @@ I ❤ Open Source.
 ### [axiaoxin-com/golang ↓](https://github.com/axiaoxin-com)
 
 <a href="http://github.com/axiaoxin-com/pink-lady" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=pink-lady)</a>
-<a href="http://github.com/axiaoxin-com/x-stock" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=x-stock)</a>
+<a href="http://github.com/axiaoxin-com/investool" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=investool)</a>
 <a href="http://github.com/axiaoxin-com/logging" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=logging)</a>
 <a href="http://github.com/axiaoxin-com/ratelimiter" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=ratelimiter)</a>
 <a href="http://github.com/axiaoxin-com/weibo" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=axiaoxin-com&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=weibo)</a>
